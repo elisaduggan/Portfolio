@@ -1,0 +1,1 @@
+This repo will be used as classroom and personal projects to show a sample of my skills.
